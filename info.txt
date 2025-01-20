@@ -1,0 +1,5 @@
+PS C:\Users\valdir\devcode\LuaProjects\DIO - Trilha Lua\modulo1\DesafioProjeto> chcp  
+Página de código ativa: 850
+
+para aparecer os ícones
+chcp 65001
